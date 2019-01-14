@@ -26,3 +26,5 @@ Voor deze minor hebben we verschillende datacamp lessen gemaakt. Hieronder een o
 
 Data verzameling
 Voor het verzamelen van de tweets onderstaand voorbeeld.
+
+classfier-1/Mendel new .pdf 

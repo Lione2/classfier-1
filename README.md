@@ -14,8 +14,15 @@ Momenteel ben ik een derdejaars student aan de Haagse hogeschool. Mijn hoofdvak 
 
 ## Datacamp
 
+Voor deze minor hebben we verschillende datacamp lessen gemaakt. Hieronder een overzicht van de door mij gemaakte lessen.
+
 <a href="http://nl.tinypic.com?ref=qzf05s" target="_blank"><img src="http://i66.tinypic.com/qzf05s.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 <a href="http://nl.tinypic.com?ref=4ugdap" target="_blank"><img src="http://i66.tinypic.com/4ugdap.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 <a href="http://nl.tinypic.com?ref=14pdop" target="_blank"><img src="http://i63.tinypic.com/14pdop.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+## Programmeeropdrachten
+
+Data verzameling
+Voor het verzamelen van de tweets onderstaand voorbeeld.

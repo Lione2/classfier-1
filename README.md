@@ -27,4 +27,4 @@ Voor deze minor hebben we verschillende datacamp lessen gemaakt. Hieronder een o
 Data verzameling
 Voor het verzamelen van de tweets onderstaand voorbeeld.
 
-![alt text](https://github.com/Lione2/classfier-1/blob/master/Mendel%20new%20.pdf)
+[Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Mendel%20new%20.pdf)

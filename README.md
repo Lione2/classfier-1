@@ -30,5 +30,21 @@ Om tweets te verzamelen is het noodzakelijk om een twitter API te vekrijgen. Dez
 
 [Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Mendel%20new%20.pdf)
 
+Wordcount + visualisatie
+Voor hem maken van een wordcount functie en visualisatie heb je het volgende nodig. Eerst import je de object die noodzakelijk zijn voor het maken van een wordcount en visualisation. Zodra je deze geimporteerd hebt kan je aan de slag met de functions die je in de code wilt bouwen. Tweepy voor het verkrijgen van de tweets. Pandas voor het werken met data. Numpy voor het rekenen. Json voor het type format dat je wilt gebruiken. Strings voor het samenvoegen van verschillende soorten informatie en counter voor het maken van de wordcounter. NLTK voor het werken met geschrift. En stopwords voor een verzameling van stopwords zodat die later kunnen worden weggelaten. 
+
+Voor de datavisualisatie heb je mathplotlib nodig. Met mathplotlib is het mogelijk om een histogram te maken. Met een histogram maak je je data zichtbaar in een tabel. Vervolgens heb je BeautifulSoup nodig om HTML of XML data te verzamelen van een url of een document.
+
+Vervolgens is het noodzakelijk om de users en de tweets te uploaden van een document. Dit document is in dit geval Clean dataset 1. In een csv format. Dan is het noodzakelijk om een dataframe te maken. In dit dataframe kan de wordcounter en datavisualisatie gebruiken. 
+
+Vervolgens moet je alle interpunctie verzamelen in een string. x: betekend dat je dat uit de hele dataset wilt doen. 
+
+
+
+[Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Words_count_csv_MENDEL.pdf)
+
+
+
+
 
 

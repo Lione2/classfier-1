@@ -44,7 +44,5 @@ Vervolgens moet je alle interpunctie verzamelen in een string. x: betekend dat j
 [Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Words_count_csv_MENDEL.pdf)
 
 
-
-
-
+![alt text](https://github.com/Lione2/classfier-1/blob/master/planner%20school.jpg)
 

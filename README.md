@@ -26,5 +26,9 @@ Voor deze minor hebben we verschillende datacamp lessen gemaakt. Hieronder een o
 
 Data verzameling
 Voor het verzamelen van de tweets onderstaand voorbeeld.
+Om tweets te verzamelen is het noodzakelijk om een twitter API te vekrijgen. Deze verkrijg je door op de twitter website een developper account aan te maken. Zodra je dat hebt is het mogelijk om een function te maken. met die function zorg je dat alle tweets worden verzameld. Vervolgens gebruik je print zodat de tweets worden geprint. De tweets moeten vervolgens in een CSV file worden geplaatst. zodat je een bruikbaar en bewerkbaar bestand hebt. Met een if functie zorg je ervoor dat de naam van de user geselecteerd kan worden. zodat je alle tweets van een user kan gebruiken.
 
 [Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Mendel%20new%20.pdf)
+
+
+

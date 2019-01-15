@@ -43,6 +43,9 @@ Vervolgens moet je alle interpunctie verzamelen in een string. x: betekend dat j
 
 [Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Words_count_csv_MENDEL.pdf)
 
+In deze planner planden we van week tot week toe zodat we de groepsopdrachten kunnen uitvoeren. Het is handig omdat iedereen ingelogd is via school en iedereen de opdrachten kan aanpassen waar nodig. Toen we halverwege de Minor waren hebben we dit aangevuld met extra meetings. De eerste meeting ging over wat we nog konden bereiken. Wat er mogelijk was en wat noodzakelijk was. In deze vergadering hebben we ook nieuwe afspraken opgesteld en en regels gemaakt. Ik zat deze en wat andere voor en richtte mij hoofdzakelijk op het adminstratief bijhouden van de nieuwe afspraken en volgordes van de taken. Iedereen koos zijn eigen taak maar het was belangrijk dat dit ook gedocumenteerd werd en dat was er de voorafgaande weken aan tekort geschoten. In deze vergaderingen was het ook heel noodzakelijk dat iedereeen bij de les bleef en dat iedereen zijn zegje kon doen. Dit schoot er soms bij in omdat sommigen nou eenmaal verbaal sterker zijn dan anderen. Ik heb me erop toegespits dat iedereen een kans kreeg om zijn woordje te doen en waar nodig mensen onderbroken zodat we niet teveel afweken van het onderwerp. Dit leidde niet tot minder verhitte discussies. Maar het gaf iedereen wel de kans om zijn of haar idee bij te dragen bij de discussie zodat we beter werkten als team. En dat is de ware definitie van SCRUM.
 
 ![alt text](https://github.com/Lione2/classfier-1/blob/master/planner%20school.jpg)
+
+
 

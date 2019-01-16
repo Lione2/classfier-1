@@ -9,7 +9,29 @@
 Mijn Naam is Mendel Lion Sjin tjoe.
 Momenteel ben ik een derdejaars student aan de Haagse hogeschool. Mijn hoofdvak is human resource management en ik heb voor deze minor gekozen omdat ik geinteresseerd ben in data en programmeren en ik het interessant om te zien wat er met data mogelijk is. Mijn groep is Cyber Security. In deze groep wordt twitter data gebruikt om uit te vinden of taal gebruikt kan worden om hacktivisten te herkennen op twitter. Omdat ik geen programmeer achtergrond heb, heb ik datacamp gebruikt om het programmeren te leren. Met ondersteuning heb ik een aantal programmeertaken gepoogd te maken. Deze zijn niet perfect gelukt maar naar vermogen gemaakt. Gedurende de Minor heb ik mij gericht op administratieve taken zoals het plannen en HR taken zoals het motiveren van de groep en de communicatie onderling verbeteren. Ook heb ik onderzoekstaken uitgevoerd.
 
-## Domain
+## Domein
+Mijn portfolio behelst een korte uitleg over het door mij uitgevoerde werk tijdens de weken dat ik les heb gevolgd in de Minor Applied Data Science op de haagse hogeschool. In dit portfolio zal je lezen over de resultaten die ik heb behaald als gevolg van het volgen van de lessen en de aanpak die ik daarin heb gekozen. 
+
+Hieronder een lijst van de daarbijbehorende termen.
+
+Datacamp
+Een online lesprogramma om programmeren met python te leren.
+
+Tweepy
+Een library met objecten om text mee te programmeren
+
+Classifier
+Een classifier is een machine learning algoritme dat de class van een input element bepaald op basis van een aantal features.
+
+Twitter
+Een van de grootste social media sites waarin gebruikers tweets de wereld in sturen als vorm van communicatie
+
+CSV
+comma separated value een bestandsindeling die kan worden gebruikt om leesbare code te produceren
+
+Planner
+Een online plan tool van de haagse hogeschool waarmee meerdere studenten uit eenzefde planner kunnen werken.
+
 
 
 ## Datacamp
@@ -41,12 +63,17 @@ Vervolgens moet je alle interpunctie verzamelen in een string. x: betekend dat j
 
 
 
-[Data verzameling](https://github.com/Lione2/classfier-1/blob/master/Words_count_csv_MENDEL.pdf)
+[Wordcount + visualisatie](https://github.com/Lione2/classfier-1/blob/master/Words_count_csv_MENDEL.pdf)
 
 ## Planner
 In deze planner planden we van week tot week toe zodat we de groepsopdrachten kunnen uitvoeren. Het is handig omdat iedereen ingelogd is via school en iedereen de opdrachten kan aanpassen waar nodig. Toen we halverwege de Minor waren hebben we dit aangevuld met extra meetings. De eerste meeting ging over wat we nog konden bereiken. Wat er mogelijk was en wat noodzakelijk was. In deze vergadering hebben we ook nieuwe afspraken opgesteld en en regels gemaakt. Ik zat deze en wat andere voor en richtte mij hoofdzakelijk op het adminstratief bijhouden van de nieuwe afspraken en volgordes van de taken. Iedereen koos zijn eigen taak maar het was belangrijk dat dit ook gedocumenteerd werd en dat was er de voorafgaande weken aan tekort geschoten. In deze vergaderingen was het ook heel noodzakelijk dat iedereeen bij de les bleef en dat iedereen zijn zegje kon doen. Dit schoot er soms bij in omdat sommigen nou eenmaal verbaal sterker zijn dan anderen. Ik heb me erop toegespits dat iedereen een kans kreeg om zijn woordje te doen en waar nodig mensen onderbroken zodat we niet teveel afweken van het onderwerp. Dit leidde niet tot minder verhitte discussies. Maar het gaf iedereen wel de kans om zijn of haar idee bij te dragen bij de discussie zodat we beter werkten als team. En dat is de ware definitie van SCRUM.
 
 ![alt text](https://github.com/Lione2/classfier-1/blob/master/planner%20school.jpg)
+
+## Presentaties
+
+Voor het groepsproject was het van belang dat ieder groepslid een presentatie voorbereidde en de klas op de hoogte stelde van de voortgang van de groep.
+
 
 
 

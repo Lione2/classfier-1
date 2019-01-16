@@ -77,3 +77,9 @@ Voor het groepsproject was het van belang dat ieder groepslid een presentatie vo
 
 
 
+[Eerste presentatie](https://github.com/Lione2/classfier-1/blob/master/cybersecurity_week%204.pdf)
+
+[Tweede presentatie](https://github.com/Lione2/classfier-1/blob/master/cybersecurity_week%2010.pdf)
+
+
+

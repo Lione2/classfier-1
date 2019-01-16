@@ -15,21 +15,27 @@ Mijn portfolio behelst een korte uitleg over het door mij uitgevoerde werk tijde
 Hieronder een lijst van de daarbijbehorende termen.
 
 Datacamp
+
 Een online lesprogramma om programmeren met python te leren.
 
 Tweepy
+
 Een library met objecten om text mee te programmeren
 
 Classifier
+
 Een classifier is een machine learning algoritme dat de class van een input element bepaald op basis van een aantal features.
 
 Twitter
+
 Een van de grootste social media sites waarin gebruikers tweets de wereld in sturen als vorm van communicatie
 
 CSV
+
 comma separated value een bestandsindeling die kan worden gebruikt om leesbare code te produceren
 
 Planner
+
 Een online plan tool van de haagse hogeschool waarmee meerdere studenten uit eenzefde planner kunnen werken.
 
 
@@ -59,10 +65,6 @@ Voor de datavisualisatie heb je mathplotlib nodig. Met mathplotlib is het mogeli
 
 Vervolgens is het noodzakelijk om de users en de tweets te uploaden van een document. Dit document is in dit geval Clean dataset 1. In een csv format. Dan is het noodzakelijk om een dataframe te maken. In dit dataframe kan de wordcounter en datavisualisatie gebruiken. 
 
-Vervolgens moet je alle interpunctie verzamelen in een string. x: betekend dat je dat uit de hele dataset wilt doen. 
-
-
-
 [Wordcount + visualisatie](https://github.com/Lione2/classfier-1/blob/master/Words_count_csv_MENDEL.pdf)
 
 ## Planner
@@ -72,14 +74,22 @@ In deze planner planden we van week tot week toe zodat we de groepsopdrachten ku
 
 ## Presentaties
 
-Voor het groepsproject was het van belang dat ieder groepslid een presentatie voorbereidde en de klas op de hoogte stelde van de voortgang van de groep.
-
-
+Voor het groepsproject was het van belang dat ieder groepslid een presentatie voorbereidde en de klas op de hoogte stelde van de voortgang van de groep. Dit waren mijn 2 presentaties. 
 
 
 [Eerste presentatie](https://github.com/Lione2/classfier-1/blob/master/cybersecurity_week%204.pdf)
 
 [Tweede presentatie](https://github.com/Lione2/classfier-1/blob/master/cybersecurity_week%2010.pdf)
+
+
+## Referenties
+
+Takatsuji, K. (2018, 17 juni). Twitter Sentiment Analysis with full code and explanation (Naive Bayes). Geraadpleegd op 12 januari 2019, van https://medium.com/@koshut.takatsuji/twitter-sentiment-analysis-with-full-code-and-explanation-naive-bayes-a380b38f036b
+
+Raschka, S. (2017, 1 februari). What I Learned Implementing a Classifier from Scratch in Python. Geraadpleegd op 13 januari 2019, van https://www.kdnuggets.com/2017/02/learned-implementing-classifier-scratch-python.html
+
+Novalić, A. H. M. E. T. (2013, 13 augustus). Introduction to tweepy, Twitter for Python - Python Central. Geraadpleegd op 11 januari 2019, van https://www.pythoncentral.io/introduction-to-tweepy-twitter-for-python/
+
 
 
 

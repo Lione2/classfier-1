@@ -82,6 +82,21 @@ Voor het groepsproject was het van belang dat ieder groepslid een presentatie vo
 [Tweede presentatie](https://github.com/Lione2/classfier-1/blob/master/cybersecurity_week%2010.pdf)
 
 
+## Slot
+Tijdens deze Minor heb ik mijn doel bereikt. Ik wilde leren over programmeren en over hoe data gebruikt kan worden om een probleem te analyseren. Dankzij deze Minor weet ik nu wat er voor nodig is om een Classifier te maken en heb ik geleerd om te gaan met Python. Het was een leerzame ervaring ook mede dankzij de lessen van over machine learning zodat je ook inzicht krijgt in watvoor wiskunde er achter de codes zitten. ik heb erg genoten van de gastspreker die een project bij PostNL had en daar liet zien hoe machine learning kan bijdrage aan een effectievere bedrijfsvoering zelfs bij zo een gestroomlijnd bedrijf als PostNL.
+
+In deze minor heb ik voor het eerst samengewerkt met internationale studenten en ondanks mijn niet technische achtergrond ben ik tezamen met mijn groepsgenoten achter veel gekomen op het gebied van het bouwen en verbeteren van een code. Hoewel ik er met mijn eigen classifiers codes niet helemaal ben uitgekomen hoop ik dat het toch een duidelijk beeld schept van de grote ontwikkeling die ik bij dit vak heb meegemaakt. 
+
+Hoofdzakelijk op het gebied van
+- Leren werken met python
+- Leren werken met notebooks 
+- Werken in groepsverband met internationale studenten 
+- Nieuwe termen en werkwijzen op het gebied van ICT
+- Leren werken in een ICT omgeving
+
+Ik kijk met veel plezier terug op de lessen en tijd die ik dit afgelopen half jaar heb mogen besteden aan de minor KB -74 Applied Data science. Ik heb nog veel meer geleerd als dat ik oorspronkelijk had verwacht.
+
+
 ## Referenties
 
 Takatsuji, K. (2018, 17 juni). Twitter Sentiment Analysis with full code and explanation (Naive Bayes). Geraadpleegd op 12 januari 2019, van https://medium.com/@koshut.takatsuji/twitter-sentiment-analysis-with-full-code-and-explanation-naive-bayes-a380b38f036b

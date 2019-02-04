@@ -52,9 +52,9 @@ Voor deze minor hebben we verschillende datacamp lessen gemaakt. Hieronder een o
 
 ## Coursera 
 Voor het programma hebben we ook coursera courses gedaan.
-[course 1](https://github.com/Lione2/classfier-1/blob/master/Coursera%20courses.jpg)
+![alt text](https://github.com/Lione2/classfier-1/blob/master/Coursera%20courses.jpg)
 
-[course 2](https://github.com/Lione2/classfier-1/blob/master/coursera%2022.jpg)
+![alt text](https://github.com/Lione2/classfier-1/blob/master/coursera%2022.jpg)
 
 ## Programmeeropdrachten
 

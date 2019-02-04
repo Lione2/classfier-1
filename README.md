@@ -50,6 +50,12 @@ Voor deze minor hebben we verschillende datacamp lessen gemaakt. Hieronder een o
 
 <a href="http://nl.tinypic.com?ref=14pdop" target="_blank"><img src="http://i63.tinypic.com/14pdop.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+## Coursera 
+Voor het programma hebben we ook coursera courses gedaan.
+[course 1](https://github.com/Lione2/classfier-1/blob/master/Coursera%20courses.jpg)
+
+[course 2](https://github.com/Lione2/classfier-1/blob/master/coursera%2022.jpg)
+
 ## Programmeeropdrachten
 
 Data verzameling

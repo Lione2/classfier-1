@@ -75,7 +75,7 @@ Vervolgens is het noodzakelijk om de users en de tweets te uploaden van een docu
 
 Data collection
 data extraction uit een csv bestand
-![alt text](https://github.com/Lione2/classfier-1/blob/master/collecting%20the%20data%20from%20CSV.jpg)
+![alt text](https://github.com/Lione2/classfier-1/blob/master/collecting%20csv%20data.jpg)
 
 Visualisation
 De data zichtbaarmaken in mathplotlib
